@@ -23,7 +23,7 @@
 6. 🔗 [Links](#links)
 7. 🚀 [More](#more)
 
-## 🚨 Tutorial
+
 
 This repository contains the code corresponding to an AI SaaS application 
 
